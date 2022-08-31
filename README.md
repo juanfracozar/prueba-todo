@@ -1,6 +1,5 @@
-# Webpack Starter
+# Prueba App Todo
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
